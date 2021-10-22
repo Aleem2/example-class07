@@ -1,1 +1,2 @@
 Hello class
+second line
